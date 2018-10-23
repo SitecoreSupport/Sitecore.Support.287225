@@ -60,10 +60,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shell\Applications\ContentManager\Dialogs\LayoutDetails\LayoutDetailsForm.cs" />
-    <Compile Include="Shell\Applications\Layouts\DeviceEditor\CopyDeviceToForm.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.287225.config" />
     <Content Include="sitecore\shell\override\LayoutDetails.xml" />
   </ItemGroup>
   <ItemGroup>
